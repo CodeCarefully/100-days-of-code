@@ -2,7 +2,7 @@
 
 I'm not playing entirely fair though.
 
-I got rid of a LOT of what i consider the "cruft" of the original challange, which you can clone at [https://github.com/kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code) and check out for yourself.
+I got rid of a LOT of what I consider the "cruft" of the original challenge, which you can clone at [https://github.com/kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code) and check out for yourself.
 
 They have a slack and everything.
 

@@ -9,3 +9,19 @@
 
 **Link to work:** you are looking at it.
 
+___
+
+### Day 1: Sept 13, 2021 
+
+**Today's Progress**: 
+
+Built the basic version of [pyCovidCLI](https://github.com/CodeCarefully/pyCovidCLI). 
+I did it late yesterday and a bit today, so no idea where to log this.
+
+I also forgot to log hours
+
+**Thoughts:** 
+
+The app is super rough and its weird to me to think of "sharing it".  
+
+**Link to work:** [https://github.com/CodeCarefully/pyCovidCLI](https://github.com/CodeCarefully/pyCovidCLI)
