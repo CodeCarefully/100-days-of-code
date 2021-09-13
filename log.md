@@ -25,3 +25,7 @@ I also forgot to log hours
 The app is super rough and its weird to me to think of "sharing it".  
 
 **Link to work:** [https://github.com/CodeCarefully/pyCovidCLI](https://github.com/CodeCarefully/pyCovidCLI)
+
+**Tool of the day:**
+
+Notepad++ has an excellent markdown viewer with a spellcheck and a previewer. What more could someone ask for?
