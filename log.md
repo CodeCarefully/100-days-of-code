@@ -29,3 +29,18 @@ The app is super rough and its weird to me to think of "sharing it".
 **Tool of the day:**
 
 Notepad++ has an excellent markdown viewer with a spellcheck and a previewer. What more could someone ask for?
+
+___
+
+### Day 2: Sept 14, 2021 
+
+**Today's Progress**: 
+
+Did more work on [pyCovidCLI](https://github.com/CodeCarefully/pyCovidCLI). 
+This time I added docopt for command line options and documentation
+
+**Thoughts:** 
+
+it looks a bit better, but the file is a bit cluttered. Also COVID sucks.
+
+**Link to work:** [https://github.com/CodeCarefully/pyCovidCLI](https://github.com/CodeCarefully/pyCovidCLI)
