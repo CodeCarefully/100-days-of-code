@@ -44,3 +44,19 @@ This time I added docopt for command line options and documentation
 it looks a bit better, but the file is a bit cluttered. Also COVID sucks.
 
 **Link to work:** [https://github.com/CodeCarefully/pyCovidCLI](https://github.com/CodeCarefully/pyCovidCLI)
+
+
+___
+
+### Day 3: Sept 15, 2021 
+
+**Today's Progress**: 
+
+Did more work on [pyCovidCLI](https://github.com/CodeCarefully/pyCovidCLI). 
+Just added source credits. Time isn't in my favor today
+
+**Thoughts:** 
+
+N/a
+
+**Link to work:** [https://github.com/CodeCarefully/pyCovidCLI](https://github.com/CodeCarefully/pyCovidCLI)
