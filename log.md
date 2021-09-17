@@ -60,3 +60,20 @@ Just added source credits. Time isn't in my favor today
 N/a
 
 **Link to work:** [https://github.com/CodeCarefully/pyCovidCLI](https://github.com/CodeCarefully/pyCovidCLI)
+
+
+
+___
+
+### Day 4: Sept 16, 2021 
+
+**Today's Progress**: 
+
+Did some poking around with GUI toolkit code.
+Since its 3am and I really don't have the energy to make anything clean to upload, you'll have to trust me.
+
+**Thoughts:** 
+
+GUI in python is annoying. 
+
+
