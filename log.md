@@ -74,6 +74,23 @@ Since its 3am and I really don't have the energy to make anything clean to uploa
 
 **Thoughts:** 
 
-GUI in python is annoying. 
+* GUI in python is annoying. 
+* WX Widgets seems to be the best option if you want cross-platform and free.
+
+
+___
+
+### Day 5: Sept 17, 2021 
+
+**Today's Progress**: 
+
+Made a bunch of repos for the other projects I'm working on.
+Started Speccing out the wedding one, again.
+
+**Thoughts:** 
+
+The wedding project is surprisingly difficult without a specific customer I'm building for.
+
+**Link to work:** [DjangoWedding](https://github.com/CodeCarefully/DjangoWedding)
 
 

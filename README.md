@@ -16,3 +16,8 @@ Do better GitHub.
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 
+## Projects
+
+* [RSS-To-IRC](https://github.com/CodeCarefully/RSS-To-IRC)
+* [PyCovidCLI](https://github.com/CodeCarefully/pyCovidCLI)
+* [DjangoWedding](https://github.com/CodeCarefully/DjangoWedding)
