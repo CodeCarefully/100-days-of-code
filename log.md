@@ -94,3 +94,12 @@ The wedding project is surprisingly difficult without a specific customer I'm bu
 **Link to work:** [DjangoWedding](https://github.com/CodeCarefully/DjangoWedding)
 
 
+___
+
+### Day 6: Sept 18, 2021 
+
+**Today's Progress**: 
+
+Started speccing out Parsnip
+
+**Link to work:** * [ParSnip](https://github.com/CodeCarefully/ParSnip) - Snippet manager/Runbook for coders
