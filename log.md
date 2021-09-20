@@ -103,3 +103,36 @@ ___
 Started speccing out Parsnip
 
 **Link to work:** * [ParSnip](https://github.com/CodeCarefully/ParSnip) - Snippet manager/Runbook for coders
+
+
+___
+
+
+### Day 7: Sept 19, 2021 
+
+**Today's Progress**: 
+
+Got the basic skeleton of ParSnip running.
+Got tests framework
+Got Django-env
+Made shiny readme file with badges
+
+**Link to work:** * [ParSnip](https://github.com/CodeCarefully/ParSnip) - Snippet manager/Runbook for coders
+
+
+___
+
+
+### Day 8: Sept 20, 2021 
+
+**Today's Progress**: 
+
+Made shiny readme file with badges for [DjangoWedding](https://github.com/CodeCarefully/DjangoWedding).
+
+**Thoughts:** 
+
+One of the nice things about writing docs and readmes before the actual project is that it forces you to flesh out the ideas more.
+I like the thought of approaching the wedding project as a lot more than an RSVP system, but as a sort of "Wedding manager"
+
+**Link to work:** [DjangoWedding](https://github.com/CodeCarefully/DjangoWedding)
+
