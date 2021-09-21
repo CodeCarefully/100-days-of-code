@@ -136,3 +136,22 @@ I like the thought of approaching the wedding project as a lot more than an RSVP
 
 **Link to work:** [DjangoWedding](https://github.com/CodeCarefully/DjangoWedding)
 
+
+
+___
+
+
+### Day 9: Sept 21, 2021 
+
+**Today's Progress**: 
+
+Did the initial commit of my RSS-To-IRC  [RSS-To-IRC](https://github.com/CodeCarefully/RSS-To-IRC) app.
+It's being used right now to provide security news updates to some IRC channels I run.
+
+**Thoughts:** 
+
+Tutorials rock.
+
+**Link to work:** [RSS-To-IRC](https://github.com/CodeCarefully/RSS-To-IRC)
+
+
