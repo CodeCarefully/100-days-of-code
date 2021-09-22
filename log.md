@@ -148,10 +148,28 @@ ___
 Did the initial commit of my RSS-To-IRC  [RSS-To-IRC](https://github.com/CodeCarefully/RSS-To-IRC) app.
 It's being used right now to provide security news updates to some IRC channels I run.
 
+Also added shields to the Readme of a project I did a commit on earlier. I'm betting it won't be merged.
+
 **Thoughts:** 
 
 Tutorials rock.
 
 **Link to work:** [RSS-To-IRC](https://github.com/CodeCarefully/RSS-To-IRC)
+
+
+
+
+### Day 10: Sept 22, 2021 
+
+**Today's Progress**: 
+
+Renamed DjangoWedding to WeddingBliss 
+I decided to do it form scratch, rather than use the cookiecutter template I was working from originally.
+
+I built the repo, and filled out all the initial documentation files.
+
+
+**Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
+
 
 

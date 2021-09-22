@@ -20,5 +20,5 @@ Do better GitHub.
 
 * [RSS-To-IRC](https://github.com/CodeCarefully/RSS-To-IRC) - Posting RSS feed contents to an IRC channel
 * [PyCovidCLI](https://github.com/CodeCarefully/pyCovidCLI) - Python version of my COVID app.
-* [DjangoWedding](https://github.com/CodeCarefully/DjangoWedding) - Wedding website
+* [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
 * [ParSnip](https://github.com/CodeCarefully/ParSnip) - Snippet manager/Runbook for coders
