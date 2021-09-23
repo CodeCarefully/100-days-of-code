@@ -173,3 +173,15 @@ I built the repo, and filled out all the initial documentation files.
 
 
 
+
+### Day 11: Sept 23, 2021 
+
+**Today's Progress**: 
+
+I got the basics running. Admin works, There's a model that seems to make sense, and I started writing some tests
+
+**Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
+
+
+
+
