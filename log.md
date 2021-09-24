@@ -183,5 +183,15 @@ I got the basics running. Admin works, There's a model that seems to make sense,
 **Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
 
 
+### Day 12: Sept 24, 2021 
+
+**Today's Progress**: 
+
+added pytest, made it pretty, and made my first factory
+
+**Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
+
+
+
 
 
