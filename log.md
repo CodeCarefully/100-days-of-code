@@ -193,5 +193,16 @@ added pytest, made it pretty, and made my first factory
 
 
 
+### Day 13: Sept 25, 2021 
+
+**Today's Progress**: 
+
+Added more tests.
+stuff's not perfect, but I got 100% coverage <3
+
+**Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
+
+
+
 
 
