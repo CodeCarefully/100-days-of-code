@@ -204,5 +204,23 @@ stuff's not perfect, but I got 100% coverage <3
 
 
 
+___
+
+### Day 14: Sept 26, 2021 
+
+**Today's Progress**: 
+
+Did some minor work on [pyCovidCLI](https://github.com/CodeCarefully/pyCovidCLI). 
+played around with the logic/error handling a bit
+I'm pretty unsatisfied with the whole thing
+
+**Thoughts:** 
+
+N/a
+
+**Link to work:** [https://github.com/CodeCarefully/pyCovidCLI](https://github.com/CodeCarefully/pyCovidCLI)
+
+
+
 
 
