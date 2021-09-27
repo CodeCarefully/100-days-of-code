@@ -157,6 +157,8 @@ Tutorials rock.
 **Link to work:** [RSS-To-IRC](https://github.com/CodeCarefully/RSS-To-IRC)
 
 
+___
+
 
 
 ### Day 10: Sept 22, 2021 
@@ -172,6 +174,8 @@ I built the repo, and filled out all the initial documentation files.
 **Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
 
 
+___
+
 
 
 ### Day 11: Sept 23, 2021 
@@ -183,6 +187,8 @@ I got the basics running. Admin works, There's a model that seems to make sense,
 **Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
 
 
+___
+
 ### Day 12: Sept 24, 2021 
 
 **Today's Progress**: 
@@ -190,6 +196,8 @@ I got the basics running. Admin works, There's a model that seems to make sense,
 added pytest, made it pretty, and made my first factory
 
 **Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
+
+___
 
 
 
@@ -222,5 +230,29 @@ N/a
 
 
 
+
+___
+
+
+
+### Day 15: Sept 27, 2021 
+
+**Today's Progress**: 
+
+Added static files. I had some weird issues with Django seemingly inexplicably only losing files from STATICFILES_DIRS,
+and yet not allowing the root static dir to be in them.
+
+**Thoughts:** 
+
+I need the templating system to be more dynamic, and I need some proper graphical assets that are "open source" for the default template
+Ideally setting the "template" field in the wedding would determine what page to load.
+
+but how would the system know?
+
+maybe a master index page of wedding choosers, assuming the domain isn't listed in the system.
+
+so the plan would be to associate a wedding to a domain name.
+
+**Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
 
 
