@@ -256,3 +256,18 @@ so the plan would be to associate a wedding to a domain name.
 **Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
 
 
+
+___
+
+
+
+### Day 16: Sept 28, 2021 
+
+**Today's Progress**: 
+
+started on the multi domain thing
+
+
+**Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
+
+
