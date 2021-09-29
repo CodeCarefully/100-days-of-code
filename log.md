@@ -271,3 +271,14 @@ started on the multi domain thing
 **Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
 
 
+
+
+___
+
+
+
+### Day 17: Sept 29, 2021 
+
+**Today's Progress**: 
+
+tired, just did research on MFA and webauthn
