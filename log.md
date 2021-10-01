@@ -271,8 +271,6 @@ started on the multi domain thing
 **Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
 
 
-
-
 ___
 
 
@@ -282,3 +280,17 @@ ___
 **Today's Progress**: 
 
 tired, just did research on MFA and webauthn
+
+
+### Day 18: Sept 30, 2021 
+
+**Today's Progress**: 
+
+Pull request, updating Random character generator based on real life statistics to Django 3
+
+
+**Link to work:** [Character_Generator](https://github.com/reyley/Character_Generator/pull/1)
+
+
+___
+
