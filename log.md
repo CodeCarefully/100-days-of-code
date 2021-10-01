@@ -281,6 +281,7 @@ ___
 
 tired, just did research on MFA and webauthn
 
+___
 
 ### Day 18: Sept 30, 2021 
 
@@ -291,6 +292,15 @@ Pull request, updating Random character generator based on real life statistics 
 
 **Link to work:** [Character_Generator](https://github.com/reyley/Character_Generator/pull/1)
 
+
+___
+
+
+### Day 19: Oct 1, 2021 
+
+**Today's Progress**: 
+
+It's a Friday. I didn't get coding done, but ive been trying to figure out cheap deployment of docker/django projects
 
 ___
 
