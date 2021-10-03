@@ -304,3 +304,29 @@ It's a Friday. I didn't get coding done, but ive been trying to figure out cheap
 
 ___
 
+
+
+
+### Day 20: Oct 2, 2021 
+
+**Today's Progress**: 
+
+Built some really terrible templates
+
+**Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
+
+___
+
+
+### Day 21: Oct 3, 2021 
+
+**Today's Progress**: 
+
+0.1.3a1 GIT:5426b5e
+switched to class based views, and implemented the "wedding chooser" initial view
+
+**Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
+
+___
+
+
