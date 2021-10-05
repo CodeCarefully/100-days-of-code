@@ -323,10 +323,54 @@ ___
 **Today's Progress**: 
 
 0.1.3a1 GIT:5426b5e
-switched to class based views, and implemented the "wedding chooser" initial view
+switched to class based views, and implemented the "wedding chooser" initial view.
+also made a CLI version of character generator.
 
 **Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
+**Link to work:** [Character_Generator](https://github.com/reyley/Character_Generator/pull/1)
+
 
 ___
+
+
+### Day 22 Oct 4, 2021 
+
+**Today's Progress**: 
+
+Made an exe version of CLI for the character generator, and learned how to do that
+
+
+**Link to work:** [Character_Generator](https://github.com/CodeCarefully/Character_Generator)
+
+
+___
+
+
+
+### Day 23: Oct 5, 2021 
+
+**Today's Progress**: 
+
+Made an exe for the Django version of the chargen program, and I'm officially badass, because this was crazy.
+
+You can see it [here](https://github.com/CodeCarefully/Character_Generator/releases/download/0.1.0/RunLocalDjangoCharGen.exe) 
+if you are a fan of janky self extractors.
+
+This was a massive multi-step process (which is quick now that I know how, but was hard to figure out) which involved:
+
+1) Using Pyinstaller to generate the initial exe
+2) Discovering the templates were missing and copying them in
+3) Writing a BAT file to run the Django server, and open the browser
+4) Zipping it all together
+5) using mt.exe to make a version of the 7-zip SFX addon that won't ask for Administrator access
+6) building the EXE
+7) making a GitHub release
+8) ....party?
+
+
+**Link to work:** [Character_Generator](https://github.com/CodeCarefully/Character_Generator)
+
+___
+
 
 
