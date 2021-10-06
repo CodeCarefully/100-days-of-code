@@ -374,3 +374,14 @@ ___
 
 
 
+
+### Day 24: Oct 6, 2021 
+
+**Today's Progress**: 
+
+improved the templates a bit.
+started researching how CBV (Class based views) handle params
+
+**Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
+
+___
