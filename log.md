@@ -385,3 +385,18 @@ started researching how CBV (Class based views) handle params
 **Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
 
 ___
+
+
+
+
+### Day 24: Oct 10, 2021 
+
+**Today's Progress**: 
+
+so its been a few days - I've made SOME progress daily but its been hard to have something whole enough to commit.
+I managed to get invites working (validating on the code and stuff), the wedding chooser and cleaned stuff up and thought out the RSVP system
+
+**Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
+
+___
+
