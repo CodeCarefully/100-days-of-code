@@ -400,3 +400,23 @@ I managed to get invites working (validating on the code and stuff), the wedding
 
 ___
 
+
+
+### Day 25: Dec 12, 2021 
+
+**Today's Progress**: 
+
+Trying to get back in the saddle of this. Did some working on class-based freeform POST form processing
+that was difficult to get good information on. 
+
+
+**Thoughts:** 
+
+Maybe I'm biased, seeing as I'm coming back to this after a significant break and my mind isn't in gear as much with Django, 
+but finding documentation on how to do something as "simple" as process my own form took a long time, considering how simple it should be/is.
+When I finally figured it out, it was a very "I'm an idiot, that was easy" moment though.
+
+**Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
+
+___
+
