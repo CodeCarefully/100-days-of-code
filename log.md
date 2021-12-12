@@ -420,3 +420,24 @@ When I finally figured it out, it was a very "I'm an idiot, that was easy" momen
 
 ___
 
+
+
+### Day 26: Dec 13, 2021 
+
+**Today's Progress**: 
+
+began process of actually making the invite display the correct database data of guests.
+checkboxes are now showing up
+
+
+**Thoughts:** 
+
+
+
+**Link to work:** [DjangoWedding/WeddingBliss](https://github.com/CodeCarefully/WeddingBliss)
+
+___
+
+
+
+
