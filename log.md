@@ -440,4 +440,20 @@ ___
 
 
 
+### Day 27: Oct 26, 2023
+
+**Today's Progress**:
+
+Picked this up again, started working on adventuretime
+
+
+**Thoughts:**
+
+Gotta keep distracted fomr this whole war thing
+
+
+___
+
+
+
 
